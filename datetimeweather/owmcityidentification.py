@@ -1,5 +1,4 @@
 #Uses OWM's city ID registry to find city IDs
-#test
 
 from pyowm.owm import OWM
 import config
